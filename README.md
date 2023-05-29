@@ -1,2 +1,2 @@
 # Dio-desafio-App-do-tipo-canvas-
-Desafio de Projeto criando um app do tipo canvas com a power plataform
+Desafio de Projeto criando um app do tipo canvas
